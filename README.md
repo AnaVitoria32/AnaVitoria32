@@ -6,5 +6,5 @@ Estou estudanto sobre:
 - CSS
 - HTML
 - JavaScript
-- NodeJs
+- React com Javascript
 
