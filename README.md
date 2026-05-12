@@ -1,43 +1,50 @@
-# 👋 Olá! Eu sou a Ana Vitória
+# 👋 Hi! I am Ana Vitória
 
-Sou **Analista de Dados em formação**, com experiência prática como **freelancer organizando, limpando e analisando dados em planilhas**, além de formação em **Análise e Desenvolvimento de Sistemas**.
+Data Analyst focused on transforming data into business insights through exploratory analysis, visualization, and problem-solving.
 
-Atualmente estudo **Ciência de Dados**, com foco em **Python, SQL e visualização de dados**, buscando transformar dados em **insights claros para apoiar a tomada de decisão**.
+## About me 
+I am a Data Analyst with a degree in Systems Analysis and Development and hands-on experience organizing, cleaning, and analyzing datasets through freelance projects on Fiverr.
+
+Currently pursuing a degree in Computer Science, I focus on Python, SQL, and business-oriented data analysis, building projects that transform data into actionable insights for decision-making.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tech Stack
 
 * **Python** (Pandas, NumPy, Matplotlib)
 * **SQL**
+* **Tableau**
+* **Power BI**
 * **Excel / Planilhas**
 * **Git & GitHub**
-* **Power BI** *(em aprendizado)*
+  
 
 ---
 
-## 📊 O que você vai encontrar aqui
+## 📊 Featured Projects
 
-* Projetos de **análise de dados**
-* Estudos práticos com **dados reais**
-* Scripts e notebooks focados em **limpeza, organização e exploração de dados**
-* Projetos conectando **planilhas → Python → visualização**
+### E-commerce Revenue Analysis
+Analysis of revenue fluctuations in an e-commerce dataset, investigating seasonality, returns, product performance, and sales trends.
 
----
-
-## 🎯 Interesses
-
-* Análise de Dados
-* Dados financeiros e de negócios
-* Automação de processos
-* Tomada de decisão orientada por dados
+### Marketing Attribution Analysis
+Analysis of marketing channel performance and customer conversion behavior through attribution modeling.
 
 ---
 
-📫 **Contato**
+## 🎯 Interests
+
+* Data Analytics
+* Business Intelligence
+* Marketing Analytics
+* Financial Data Analysis
+* Data-Driven Decision Making
+
+---
+
+📫 **Contact**
 
 * LinkedIn: www.linkedin.com/in/ana-vitória-menezes-de-paula
 
-> 💡 *Este GitHub reflete meu aprendizado contínuo e minha transição para a área de Dados.*
+
 
 
